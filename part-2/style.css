@@ -1,0 +1,25 @@
+.tweet {
+   border: 1px solid darkgray;
+   border-radius: 5px;
+   padding: 20px;
+   margin: 0 30px;
+   margin-bottom: 10px;
+   position: relative;
+   font-family: Courier
+}
+.name{
+    font-weight:bold;
+}
+.username{
+    padding: 0px 10px;
+    font-size: small;
+    color: gray
+}
+.date{
+    position: absolute;
+    right: 10px;
+    font-size: small;
+}
+.msg{
+    font-family: monospace
+}
